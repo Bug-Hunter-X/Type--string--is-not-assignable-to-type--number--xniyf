@@ -1,0 +1,1 @@
+This repository contains a TypeScript bug and its solution. The bug demonstrates a common type error in TypeScript where a string is assigned to a variable that is declared as a number. The solution shows how to fix this error using type guards and type assertions.
